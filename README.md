@@ -1,4 +1,4 @@
-#Task name
+# Example of my code
 #### Piskel-clone:
 Code: https://github.com/GeorgPandeh/piskel-clone/tree/master
 Hosting: https://georgpandeh.github.io/piskel-clone/
