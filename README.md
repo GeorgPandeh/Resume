@@ -15,7 +15,7 @@ Description: Group project, all info [here](https://github.com/GeorgPandeh/cultu
 [Code](https://github.com/GeorgPandeh/Chat/tree/master)\
 [Hosting](https://sheltered-plateau-55850.herokuapp.com/)\
 Technology: ReactJS, Redux, WebSocket, Ant Design\
-Description: All info [here](https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-culture-portal.md)\
+Description: All info [here](https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/chat.md)\
 Since the server on heroku shuts down every 30 minutes, most likely, when you first click on the link to the hosting, you need to wait a bit for the server to start.\
 This app manipulate only with the userside. RollingScopes(My courses) own the server.
 ***
