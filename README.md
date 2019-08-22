@@ -41,11 +41,11 @@ Description: Frames 1x2, Frame management, and animation on native canvas.
 [Code](https://github.com/GeorgPandeh/hexal)\
 [Hosting](https://georgpandeh.github.io/hexal/)\
 Technology: Html, Css.\
-Description: My [layout](https://www.psdchat.com/resources/templates/psd-templates/hexal/) implementation
+Description: My implementation of this [layout](https://www.psdchat.com/resources/templates/psd-templates/hexal/)
 ***
 ##### NeutronMail:
 [Code](https://github.com/GeorgPandeh/NeutronMail)\
 [Hosting](https://georgpandeh.github.io/NeutronMail/)\
 Technology: Html, Css.\
-Description: My [layout](https://dribbble.com/shots/3663760-Neutron-Page) implementation
+Description: My implementation of this [layout](https://dribbble.com/shots/3663760-Neutron-Page)
 ***
